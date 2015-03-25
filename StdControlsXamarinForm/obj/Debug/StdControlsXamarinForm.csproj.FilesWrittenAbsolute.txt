@@ -1,0 +1,7 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/StdControlsXamarinForm/StdControlsXamarinForm/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/StdControlsXamarinForm/StdControlsXamarinForm/bin/Debug/StdControlsXamarinForm.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/StdControlsXamarinForm/StdControlsXamarinForm/bin/Debug/StdControlsXamarinForm.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/StdControlsXamarinForm/StdControlsXamarinForm/obj/Debug/StdControlsXamarinForm.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/StdControlsXamarinForm/StdControlsXamarinForm/obj/Debug/StdControlsXamarinForm.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/StdControlsXamarinForm/StdControlsXamarinForm/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/StdControlsXamarinForm/StdControlsXamarinForm/bin/Debug/Xamarin.Forms.Xaml.dll
